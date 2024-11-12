@@ -1,2 +1,1 @@
-devzzz is cutie
-#devzzz is cutie
+# devzzz is cutie
